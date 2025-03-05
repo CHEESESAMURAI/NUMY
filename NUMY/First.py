@@ -25,8 +25,8 @@ from selenium.common.exceptions import TimeoutException
 
 ###############################################################################
 # Настройки
-BOT_TOKEN = "7774315895:AAFVVUfSBOw3t7WjGTM6KHFK160TveSGheA"
-SERPER_API_KEY = "8ba851ed7ae1e6a655102bea15d73fdb39cdac79"  # ключ для serper.dev
+BOT_TOKEN = ""
+SERPER_API_KEY = ""  # ключ для serper.dev
 
 WELCOME_MESSAGE = (
     "👋 *Добро пожаловать в WHITESAMURAI!*\n\n"
